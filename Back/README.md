@@ -1,6 +1,6 @@
-# Application Front End
+# Application Back End
 
-> A Vue.js project
+> A Node.js project
 
 ## Build Setup
 

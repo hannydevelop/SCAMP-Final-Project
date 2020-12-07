@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "A simple MEVN ecommerce application",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hannydevelop",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}
